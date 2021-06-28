@@ -1,0 +1,4 @@
+AuthName "Connectez vous."
+AuthType Basic
+AuthUserFile "/home/exmachinef/www/je-code/esgi1/bkhemissi1/Mosaique/StudentSpace/.htpasswd"
+Require valid-user

@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Exo:400,500,500italic,400italic,600,600italic,700,700italic,800,800italic,300,300italic);
+
+body {
+  background: url("bg.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+a.successlink:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.unsuccesslink:link {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
