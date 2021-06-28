@@ -1,3 +1,6 @@
+My 1st year's final project, a website that introduces our school and the list of our class's students
+developped with HTML,CSS, JS, BOOTSTRAP
+
 CREDITS:
 
 Bootstrap
